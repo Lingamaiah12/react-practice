@@ -84,7 +84,7 @@ const Items = ({ logged }) => {
 
       <div className="col-md-4 col-sm-12 ms-4 cartItems">
         <div className="cart-items">
-          <h1>Cart Items</h1>
+          <h1 className="ms-2">Cart Details</h1>
           <table className="table">
             <thead>
               <tr>

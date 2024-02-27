@@ -24,13 +24,11 @@
     display:flex;
 }
 .cartItems{
-    background-color: rgb(229, 246, 246);
+
     margin-top: 15px;
+    border: 5px solid orange;
     border-radius: 10px;
-    border-color: rgb(230, 244, 244);
+    padding: 10px;
+    border-color: rgb(209, 240, 240);
 }
-.table{
-    background-color: rgb(229, 246, 246);
-    color: white;
-    
-}
+
