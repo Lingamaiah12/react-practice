@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "UserName": "lingamaiah",
+      "Password": "Yadav@123",
+      "Age": 22,
+      "Mobile": 8143811181,
+      "City": "Bang",
+      "Subscribe": true,
+      "id": 4
+    },
+    {
+      "UserName": "Manoj",
+      "Password": "Manoj@123",
+      "Age": 23,
+      "Mobile": 9652085082,
+      "City": "Bang",
+      "Subscribe": true,
+      "id": 5
+    },
+    {
+      "UserName": "Lingamaiah",
+      "Password": "Linga@123",
+      "Age": 27,
+      "Mobile": 8978679078,
+      "City": "",
+      "Subscribe": true,
+      "id": 6
+    },
+    {
+      "UserName": "Ajay",
+      "Password": "Ajay@123",
+      "Age": 27,
+      "Mobile": 73773473437,
+      "City": "Hyd",
+      "Subscribe": false,
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

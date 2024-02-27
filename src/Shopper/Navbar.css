@@ -1,0 +1,36 @@
+
+
+.nav{
+
+    background-color: rgb(86, 180, 180);
+    display: grid;
+    grid-template-columns: 8fr 2fr 2fr; 
+    border-radius: 3px;
+    align-items: center;
+}
+.title{
+    padding: 20px;
+    color: white;
+    
+}
+.Login{
+    align-items: center;
+}
+.cart{
+    display: flex;
+    grid-template-columns: 4fr 4fr 4fr;
+}
+.product{
+    display:flex;
+}
+.cartItems{
+    background-color: rgb(229, 246, 246);
+    margin-top: 15px;
+    border-radius: 10px;
+    border-color: rgb(230, 244, 244);
+}
+.table{
+    background-color: rgb(229, 246, 246);
+    color: white;
+    
+}
